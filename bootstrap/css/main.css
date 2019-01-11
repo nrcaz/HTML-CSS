@@ -1,0 +1,22 @@
+img{
+	height: 70%;
+}
+div.container{
+	border-bottom: 1px solid lightgrey;
+	padding:40px 0 40px 0;
+}
+nav{
+	background: linear-gradient(#3b3b3b,#222222);
+}
+.navbar-brand{
+	display: block;
+	background-color: #0d0d0d;
+	padding: 15px 15px 15px 15px;
+	font-size: 100%;
+}
+a.active, div.card-header{
+	background: linear-gradient(#3279b6,#2b669a);
+}
+div.btn-group button{
+	background: linear-gradient(#73c9e2,#2aabd2);
+}
