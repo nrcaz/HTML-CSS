@@ -1,10 +1,10 @@
 # HTML-CSS
 Some works from when i started to learn HTML & CSS
 
-http://nicholas-rossette.epizy.com/HTML-CSS/bootstrap/
+nrcaz.github.io/HTML-CSS/bootstrap/
 
-http://nicholas-rossette.epizy.com/HTML-CSS/cookanddev/
+nrcaz.github.io/HTML-CSS/cookanddev/
 
-http://nicholas-rossette.epizy.com/HTML-CSS/garageot/
+nrcaz.github.io/HTML-CSS/garageot/
 
-http://nicholas-rossette.epizy.com/HTML-CSS/pageabob/
+nrcaz.github.io/HTML-CSS/pageabob/
